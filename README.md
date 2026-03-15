@@ -1,8 +1,8 @@
---Django Portfolio Website
+**Django Portfolio Website
 
-A personal portfolio website built using Django to showcase projects, skills, and contact information.
+**A personal portfolio website built using Django to showcase projects, skills, and contact information.
 
-Features
+**Features**
 
 Personal portfolio homepage
 
@@ -17,7 +17,7 @@ Admin panel for managing content
 Responsive design
 
 
-Tech Stack
+**Tech Stack**
 
 Python
 
@@ -32,7 +32,7 @@ Bootstrap
 SQLite (default Django database)
 
 
-Project Setup
+**Project Setup**
 1. Clone the Repository
 
 git clone https://github.com/yourusername/your-repo-name.git
@@ -74,7 +74,7 @@ python manage.py createsuperuser
 python manage.py runserver
 
 
-portfolio/
+**portfolio/**
 │
 ├── portfolio/        # Main project folder
 ├── app/              # Portfolio application
